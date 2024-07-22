@@ -8,7 +8,7 @@ const Experience = (props) => {
 	return (
 		<div className='row experience' style={{ marginTop: '60px' }}>
 			<div className='col-12 title' style={{ margin: '0px' }}>
-				Expreriences
+				Experiences
 			</div>
 			<Divider size='medium'></Divider>
 			{experiences.map((experience) => (
