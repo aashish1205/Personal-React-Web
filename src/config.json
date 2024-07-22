@@ -130,11 +130,11 @@
 
     {
       "id": 6,
-      "link": "https://github.com/dlnicoz/Personal-React-Web",
+      "link": "https://github.com/aashish1205/Personal-React-Web",
       "logo": "https://raw.githubusercontent.com/dlnicoz/Personal-React-Web/master/src/assets/pr11.webp",
       "title": "Portfolio  - react web",
-      "time": "Jul 2023- Aug 2023",
-      "location": "Badlapur , Mumbai",
+      "time": "July 2023- Aug 2023",
+      "location": "Kurla , Mumbai",
       "status": "away",
       "details": {
         "type": "Self Employed, Self project",
@@ -237,7 +237,7 @@
   "contact": {
     "mobile": "+91 9076008283",
     "email": "ag2110478@gmail.com",
-    "github": "dlnicoz",
-    "linkedin": "in/dheerajsahani"
+    "github": "aashish1205",
+    "linkedin": "in/ashishgupta"
   }
 }
