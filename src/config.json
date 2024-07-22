@@ -42,7 +42,7 @@
         {
           "id": 1,
           "name": "HTML, CSS ,Javascript",
-          "degree": "senior"
+          "degree": "junior"
         },
         {
           "id": 2,
@@ -59,6 +59,31 @@
     {
       "id": 3,
       "header": {
+        "name": "Tools",
+        "color": "rgb(255 255 0)",
+        "percent": "60"
+      },
+      "skills": [
+        {
+          "id": 1,
+          "name": "Tableau",
+          "degree": "junior"
+        },
+        {
+          "id": 2,
+          "name": "Microsoft Power BI",
+          "degree": "junior"
+        },
+        {
+          "id": 3,
+          "name": "My SQL",
+          "degree": "senior"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "header": {
         "name": "Others",
         "color": "rgb(253, 16, 86)",
         "percent": "80"
@@ -67,7 +92,7 @@
         {
           "id": 1,
           "name": "Operating linux distro's",
-          "degree": "senior"
+          "degree": "junior"
         },
         {
           "id": 2,
@@ -77,12 +102,12 @@
         {
           "id": 3,
           "name": "Git, github",
-          "degree": "senior"
+          "degree": "junior"
         },
         {
           "id": 4,
           "name": "Nvim",
-          "degree": "senior"
+          "degree": "junior"
         }
       ]
     }
@@ -92,29 +117,16 @@
       "id": 1,
       "link": "https://github.com/dlnicoz/nearlybiz",
       "logo": "https://raw.githubusercontent.com/dlnicoz/Personal-React-Web/master/src/assets/exp11.webp",
-      "title": "Team Leader - Hertzsoft",
+      "title": "Team Member - Hertzsoft",
       "time": "Jun 2021 - Offline",
       "location": "Seawoods , Navi Mumbai",
-      "description": "Team leader",
+      "description": "Team Member",
       "status": "offline",
       "info": "Internship"
     }
   ],
   "projects": [
-    {
-      "id": 7,
-      "link": "https://github.com/dlnicoz/DhirajContractor",
-      "logo": "https://raw.githubusercontent.com/dlnicoz/Personal-React-Web/master/src/assets/pr14.webp",
-      "title": "DhirajContractor- react web",
-      "time": "Jan 2024 - Feb 2024",
-      "location": "Badlapur , Mumbai",
-      "status": "away",
-      "details": {
-        "type": "Paid Project, Self Employed",
-        "period": "2 month",
-        "tecs": ["React", "Tailwindcss"]
-      }
-    },
+   
 
     {
       "id": 6,
@@ -130,20 +142,7 @@
         "tecs": ["React", "Netlify", "Bootstrap"]
       }
     },
-    {
-      "id": 1,
-      "link": "https://github.com/dlnicoz/SAANAVI",
-      "logo": "https://raw.githubusercontent.com/dlnicoz/Personal-React-Web/master/src/assets/pr12.webp",
-      "title": "Saanvi hotel - react web",
-      "time": "Nov 2022 - Jan 2023",
-      "location": "Koparkhairane , Mumbai",
-      "status": "away",
-      "details": {
-        "type": "Self Employed, Paid project",
-        "period": "3 month",
-        "tecs": ["React", "Netlify", "Bootstrap"]
-      }
-    },
+    
     {
       "id": 2,
       "link": "https://github.com/dlnicoz/Interio",
@@ -212,7 +211,7 @@
     },
     {
       "id": 3,
-      "title": "Maintaining Vehicle"
+      "title": "Playing Cricket"
     },
     {
       "id": 4,
@@ -236,8 +235,8 @@
     }
   ],
   "contact": {
-    "mobile": "+91 7304861722",
-    "email": "sahani.dev@proton.me",
+    "mobile": "+91 9076008283",
+    "email": "ag2110478@gmail.com",
     "github": "dlnicoz",
     "linkedin": "in/dheerajsahani"
   }
